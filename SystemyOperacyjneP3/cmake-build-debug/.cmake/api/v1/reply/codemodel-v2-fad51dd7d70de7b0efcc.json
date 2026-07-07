@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SystemyOperacyjne3SystemGlosowania",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "central::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-central-Debug-4c0d33a246020307f891.json",
+					"name" : "central",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "launcher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-launcher-Debug-5167b4700020f6499a7b.json",
+					"name" : "launcher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "local::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-local-Debug-012d99d2f9e76f54f19e.json",
+					"name" : "local",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug",
+		"source" : "/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

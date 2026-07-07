@@ -1,0 +1,5 @@
+/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug/CMakeFiles/central.dir
+/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug/CMakeFiles/local.dir
+/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug/CMakeFiles/launcher.dir
+/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/szymon/CLionProjects/SystemyOperacyjne3SystemGlosowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
